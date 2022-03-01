@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the Earle of Essex to the King [sic] most Excellent Maiestie wherein is declared his honourable intentions to attaine nothing but what shall tend to advancement of His Majesties honour and the good of the Common-wealth : whereunto is annexed the</title>
+            <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28933</idno>
+            <idno type="STC">Wing R1147</idno>
+            <idno type="EEBO-CITATION">12248565</idno>
+            <idno type="OCLC">ocm 12248565</idno>
+            <idno type="VID">197469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B28933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197469)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E111, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the Earle of Essex to the King [sic] most Excellent Maiestie wherein is declared his honourable intentions to attaine nothing but what shall tend to advancement of His Majesties honour and the good of the Common-wealth : whereunto is annexed the</title>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for T. Rider,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 13, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197469:1" rendition="simple:additions"/>
+            <p>THE RESOLUTION Of the Earle of ESSEX To the King moſt Excellent MAIESTIE.</p>
+            <p>WHEREIN Is declared his Honourable Intentions to attaine nothing but what ſhall tend to advancement of His Majeſties honour and the good of the Common-wealth.</p>
+            <p>Whereunto is annexed, The Declarations of the Lords and Commons concerning the Actions of the Malignant Partie of this Kingdome.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Ordered that this be printed and publiſhed,</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Hen. Elſing, Cler. Pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l. D. Com.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Auguſt</hi> 13. Printed for <hi>T. Rider.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="resolution">
+            <pb facs="tcp:197469:2"/>
+            <pb n="1" facs="tcp:197469:2"/>
+            <head>The Reſolution of His Excellency the Earle of ESSEX.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, having practiſed by ſeverall endeavours to ſup<g ref="char:EOLhyphen"/>preſſe the actions of the evill affected part of this King<g ref="char:EOLhyphen"/>dome, to which end they cut off all Mono<g ref="char:EOLhyphen"/>polies and Taxes that lay heavie upon the Subject, withall ſeeking to reforme all
+<pb n="2" facs="tcp:197469:3"/>thoſe miſdemeanours which were lately crept into the Church and Common<g ref="char:EOLhyphen"/>wealth, bringing to condigne puniſh<g ref="char:EOLhyphen"/>ment all ſuch as were offenders, that their examples might deterre others from com<g ref="char:EOLhyphen"/>mitting the like wicked crimes and Miſ<g ref="char:EOLhyphen"/>demeanours.</p>
+            <p>Which the Malignant partie ſeeing and knowing that their painted diſſimulation would not endure the teſt if brought to tryall they by all meanes that poſſibly they could, endeavoured to cauſe a divi<g ref="char:EOLhyphen"/>ſion betweene the King and Parliament, ſtriving to foment jealouſies and Feares, which were not thought of, and there<g ref="char:EOLhyphen"/>fore cauſeleſſe not of any dangerous con<g ref="char:EOLhyphen"/>ſequence, either to His Majeſties Honour or Perſon.</p>
+            <p>Nevertheleſſe ſo farre they prevailed with His Majeſtie, as that he abſented him<g ref="char:EOLhyphen"/>ſelfe from His parliament, and withdraw himſelfe into the North, where after ſome Moneths reſidence they cauſed His Ma<g ref="char:EOLhyphen"/>jeſty to ingage himſelfe in a warre againſt
+<pb n="3" facs="tcp:197469:3"/>His Parliament, and ſo conſequently a<g ref="char:EOLhyphen"/>gainſt His Subject.</p>
+            <p>To which end by His Majeſties com<g ref="char:EOLhyphen"/>mand the Gentey and Commonalty of <hi>Yorkſhire</hi> were cauſed to bring in their Horſes and Armes.</p>
+            <p>Which being effected, theſe new raiſed Forces was cau ed to march againſt <hi>Hull,</hi> where they beſieged it, uſing many Ho<g ref="char:EOLhyphen"/>ſtile Actions and attempts againſt the In<g ref="char:EOLhyphen"/>habitants of the ſaid Towne.</p>
+            <p>Which the Lords and Commons being informed of, and finding the great detri<g ref="char:EOLhyphen"/>ment that ſuch actions and warlike at<g ref="char:EOLhyphen"/>tempts might doe to the Subject, if ſuffered to goe on; wherefore they ſent to his Ma<g ref="char:EOLhyphen"/>jeſty a Petition for Pacification.</p>
+            <p>Which Petition was received by His Majeſty with little or no ſhow of Love or kindneſſe, as may appeare by the ſe<g ref="char:EOLhyphen"/>quell of His Anſwer to the ſaid Petiti<g ref="char:EOLhyphen"/>on.</p>
+            <p>Which the Lords and Commons find<g ref="char:EOLhyphen"/>ing, thought it high time to ſecure the
+<pb n="4" facs="tcp:197469:4"/>whole Kingdome, His Majeſty being re<g ref="char:EOLhyphen"/>ſolved to proceed in the courſe which he had begun, wherefore they reſolved that an Army ſhould be raiſed under the com<g ref="char:EOLhyphen"/>mand of His Excellencie the Earle of <hi>Eſſex.</hi>
+            </p>
+            <p>Which he according to his Allegeance to His Majeſty, and duty to his Countrey, with willingneſſe accepted of it, for which cauſe they wrought His Majeſty to be in<g ref="char:EOLhyphen"/>cenſed againſt him.</p>
+            <p>Which cauſed His Excellencie to de<g ref="char:EOLhyphen"/>clare his Reſolution, that he is reſolved to put nothing in Act, but what what ſhall tend to His Majeſties Honour, ſafety and ſecurity, and the good both of Church and Religion.</p>
+            <p>Likewiſe the Lords and Common doe declare, That they will alwayes preferre the generall good before their owne lives and fortunes, for the defence and mainte<g ref="char:EOLhyphen"/>nance whereof they are reſolved to hazard the ſame.</p>
+         </div>
+         <div type="declaration">
+            <pb n="5" facs="tcp:197469:4"/>
+            <head>The Declaration of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Lords and Commons doe declare, that they only aime at, and deſire no<g ref="char:EOLhyphen"/>thing more then to maintaine the pu<g ref="char:EOLhyphen"/>rity and power of Religion, and to honour the King in his juſt and Regall Prero<g ref="char:EOLhyphen"/>gatives, eſteeming nothing like the Liberty, Peace, and Safety of the Kingdome, nor think<g ref="char:EOLhyphen"/>ing any thing to be too good to be hazarded in diſcharge of their conſciences for obtaining it: Alwayes repoſing themſelves in the protection of Almighty God, which they are confident will never be wanting in his bleſſing towards them, while they ſeeke his glory, as they have found him wonderfully going along with them in all their proceedings.</hi>
+            </p>
+            <pb facs="tcp:197469:5"/>
+            <p>
+               <hi>WE the Lords and Commons are reſolved to expoſe our Lives and Fortunes for the defence and maintenance of the true Proteſtant Religion, the Kings Perſon, Honour and E<g ref="char:EOLhyphen"/>ſtate, the Power and Priviledge of Parliament and the juſt Right and Liberties of the Sub<g ref="char:EOLhyphen"/>ject.</hi>
+            </p>
+            <p>
+               <hi>And Wee doe require all thoſe who have any ſence of Piety, Honour, or Compaſſion, to help a diſtreſſed State, and to come in unto our aid, and aſſiſtance: This being the true cauſe for which we raiſe an Army, under the Command of the Earle of</hi> Eſſex, <hi>with whom in this cauſe wee will live and dye.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Ordered that this be printed and publiſhed,</hi>
+                  </p>
+                  <closer>
+                     <signed>Hen. Elſing, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
